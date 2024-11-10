@@ -12,3 +12,4 @@ colour_name["Diffcars"] += cars
 
 for keys in colour_name.keys():
     print(keys)
+
